@@ -9,6 +9,10 @@ int main() {
     
     if (number == 1) {
         printf("You chose One.\n");
+    }
+    else if (number == 2) {
+        printf("You chose Two.\n");
+    }
     
     return 0;
 }
