@@ -19,6 +19,9 @@ int main() {
     else if (number == 4) {
     printf("You chose Four.\n");
     }
+    else {
+    printf("Invalid choice. Please enter a number between 1 and 4.\n");
+}
     return 0;
 }
 
