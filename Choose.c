@@ -13,7 +13,9 @@ int main() {
     else if (number == 2) {
         printf("You chose Two.\n");
     }
-    
+    else if (number == 3) {
+    printf("You chose Three.\n");
+    }
     return 0;
 }
 
